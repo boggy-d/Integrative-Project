@@ -1,0 +1,30 @@
+Main Menu:
+- Resize
+NSL: 
+- Add Background (canvas)
+- Resize
+- Make it stop lagging (probs modify graph)
+- Halp
+- Add some swag sounds
+
+Proj Motion:
+- Resize
+
+
+Ray Diagram:
+- Make the animation
+- Fix the line in middle of graph when there is grid lines
+- Add different lenses
+- Basically finish it
+- Resize
+- Halp
+
+
+IGS:
+- Add background (canvas)
+- Make ball follow graph (timeline)
+- Fix proportions ands placement for animation
+- Fix the squiggly line thing (like seriously wtf is that shit)
+- Make win/lose
+- Resize
+- Halp
